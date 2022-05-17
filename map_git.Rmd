@@ -39,7 +39,7 @@ m<-leaflet(data = third) %>%
 
 ## Map
 
-You can also embed plots, for example:
+Median Income of Households in MA:
 
 ```{r pressure, echo=FALSE}
 m
